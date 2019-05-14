@@ -6,6 +6,7 @@ The following tables include repos with machine learning models ready for mobile
 
 Name | Last Updated | Stars | Description
 ----- | ----- | ---: | -----
+[Dog Breed Classification](https://github.com/vhanagwal/dog-breed-dataset) | 2019-05-13 | 1 | A curated subset of dog breeds from the Stanford dataset, ready to train a classification model with.
 [Paparazzo](https://github.com/avito-tech/Paparazzo) | 2019-04-19 | 643 | Custom iOS camera and photo picker with editing capabilities
 [visual-recognition-coreml](https://github.com/watson-developer-cloud/visual-recognition-coreml) | 2019-04-23 | 460 | Classify images offline using Watson Visual Recognition and Core ML
 [flutter_tflite](https://github.com/shaqian/flutter_tflite) | 2019-04-15 | 109 | Flutter plugin for TensorFlow Lite
